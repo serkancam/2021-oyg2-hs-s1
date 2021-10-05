@@ -1,0 +1,304 @@
+yas,cinsiyet,gogus_agrisi_tipi,hareketsiz_kan_basinci,serum_kolestrol,aclik_kan_sekeri,elektrokardiyografi,en_yuksek_kalp_hizi,anjin_bagli_egsersiz,st_depresyonu,st_egimi,buyuk_damarlar,talasemi,kalp_rahatsizligi
+63.0,erkek,tipik anjinal,145.0,233.0,1,sol ventikuler hipertrofi,150.0,0,2.3,asagi egimli,0.0,sabit defekt,0
+67.0,erkek,asemptomatik,160.0,286.0,0,sol ventikuler hipertrofi,108.0,1,1.5,duz,3.0,normal,1
+67.0,erkek,asemptomatik,120.0,229.0,0,sol ventikuler hipertrofi,129.0,1,2.6,duz,2.0,tersinir defekt,1
+37.0,erkek,anjinal olmayan,130.0,250.0,0,normal,187.0,0,3.5,asagi egimli,0.0,normal,0
+41.0,kadin,atipik anjinal,130.0,204.0,0,sol ventikuler hipertrofi,172.0,0,1.4,yukari egimli,0.0,normal,0
+56.0,erkek,atipik anjinal,120.0,236.0,0,normal,178.0,0,0.8,yukari egimli,0.0,normal,0
+62.0,kadin,asemptomatik,140.0,268.0,0,sol ventikuler hipertrofi,160.0,0,3.6,asagi egimli,2.0,normal,1
+57.0,kadin,asemptomatik,120.0,354.0,0,normal,163.0,1,0.6,yukari egimli,0.0,normal,0
+63.0,erkek,asemptomatik,130.0,254.0,0,sol ventikuler hipertrofi,147.0,0,1.4,duz,1.0,tersinir defekt,1
+53.0,erkek,asemptomatik,140.0,203.0,1,sol ventikuler hipertrofi,155.0,1,3.1,asagi egimli,0.0,tersinir defekt,1
+57.0,erkek,asemptomatik,140.0,192.0,0,normal,148.0,0,0.4,duz,0.0,sabit defekt,0
+56.0,kadin,atipik anjinal,140.0,294.0,0,sol ventikuler hipertrofi,153.0,0,1.3,duz,0.0,normal,0
+56.0,erkek,anjinal olmayan,130.0,256.0,1,sol ventikuler hipertrofi,142.0,1,0.6,duz,1.0,sabit defekt,1
+44.0,erkek,atipik anjinal,120.0,263.0,0,normal,173.0,0,0.0,yukari egimli,0.0,tersinir defekt,0
+52.0,erkek,anjinal olmayan,172.0,199.0,1,normal,162.0,0,0.5,yukari egimli,0.0,tersinir defekt,0
+57.0,erkek,anjinal olmayan,150.0,168.0,0,normal,174.0,0,1.6,yukari egimli,0.0,normal,0
+48.0,erkek,atipik anjinal,110.0,229.0,0,normal,168.0,0,1.0,asagi egimli,0.0,tersinir defekt,1
+54.0,erkek,asemptomatik,140.0,239.0,0,normal,160.0,0,1.2,yukari egimli,0.0,normal,0
+48.0,kadin,anjinal olmayan,130.0,275.0,0,normal,139.0,0,0.2,yukari egimli,0.0,normal,0
+49.0,erkek,atipik anjinal,130.0,266.0,0,normal,171.0,0,0.6,yukari egimli,0.0,normal,0
+64.0,erkek,tipik anjinal,110.0,211.0,0,sol ventikuler hipertrofi,144.0,1,1.8,duz,0.0,normal,0
+58.0,kadin,tipik anjinal,150.0,283.0,1,sol ventikuler hipertrofi,162.0,0,1.0,yukari egimli,0.0,normal,0
+58.0,erkek,atipik anjinal,120.0,284.0,0,sol ventikuler hipertrofi,160.0,0,1.8,duz,0.0,normal,1
+58.0,erkek,anjinal olmayan,132.0,224.0,0,sol ventikuler hipertrofi,173.0,0,3.2,yukari egimli,2.0,tersinir defekt,1
+60.0,erkek,asemptomatik,130.0,206.0,0,sol ventikuler hipertrofi,132.0,1,2.4,duz,2.0,tersinir defekt,1
+50.0,kadin,anjinal olmayan,120.0,219.0,0,normal,158.0,0,1.6,duz,0.0,normal,0
+58.0,kadin,anjinal olmayan,120.0,340.0,0,normal,172.0,0,0.0,yukari egimli,0.0,normal,0
+66.0,kadin,tipik anjinal,150.0,226.0,0,normal,114.0,0,2.6,asagi egimli,0.0,normal,0
+43.0,erkek,asemptomatik,150.0,247.0,0,normal,171.0,0,1.5,yukari egimli,0.0,normal,0
+40.0,erkek,asemptomatik,110.0,167.0,0,sol ventikuler hipertrofi,114.0,1,2.0,duz,0.0,tersinir defekt,1
+69.0,kadin,tipik anjinal,140.0,239.0,0,normal,151.0,0,1.8,yukari egimli,2.0,normal,0
+60.0,erkek,asemptomatik,117.0,230.0,1,normal,160.0,1,1.4,yukari egimli,2.0,tersinir defekt,1
+64.0,erkek,anjinal olmayan,140.0,335.0,0,normal,158.0,0,0.0,yukari egimli,0.0,normal,1
+59.0,erkek,asemptomatik,135.0,234.0,0,normal,161.0,0,0.5,duz,0.0,tersinir defekt,0
+44.0,erkek,anjinal olmayan,130.0,233.0,0,normal,179.0,1,0.4,yukari egimli,0.0,normal,0
+42.0,erkek,asemptomatik,140.0,226.0,0,normal,178.0,0,0.0,yukari egimli,0.0,normal,0
+43.0,erkek,asemptomatik,120.0,177.0,0,sol ventikuler hipertrofi,120.0,1,2.5,duz,0.0,tersinir defekt,1
+57.0,erkek,asemptomatik,150.0,276.0,0,sol ventikuler hipertrofi,112.0,1,0.6,duz,1.0,sabit defekt,1
+55.0,erkek,asemptomatik,132.0,353.0,0,normal,132.0,1,1.2,duz,1.0,tersinir defekt,1
+61.0,erkek,anjinal olmayan,150.0,243.0,1,normal,137.0,1,1.0,duz,0.0,normal,0
+65.0,kadin,asemptomatik,150.0,225.0,0,sol ventikuler hipertrofi,114.0,0,1.0,duz,3.0,tersinir defekt,1
+40.0,erkek,tipik anjinal,140.0,199.0,0,normal,178.0,1,1.4,yukari egimli,0.0,tersinir defekt,0
+71.0,kadin,atipik anjinal,160.0,302.0,0,normal,162.0,0,0.4,yukari egimli,2.0,normal,0
+59.0,erkek,anjinal olmayan,150.0,212.0,1,normal,157.0,0,1.6,yukari egimli,0.0,normal,0
+61.0,kadin,asemptomatik,130.0,330.0,0,sol ventikuler hipertrofi,169.0,0,0.0,yukari egimli,0.0,normal,1
+58.0,erkek,anjinal olmayan,112.0,230.0,0,sol ventikuler hipertrofi,165.0,0,2.5,duz,1.0,tersinir defekt,1
+51.0,erkek,anjinal olmayan,110.0,175.0,0,normal,123.0,0,0.6,yukari egimli,0.0,normal,0
+50.0,erkek,asemptomatik,150.0,243.0,0,sol ventikuler hipertrofi,128.0,0,2.6,duz,0.0,tersinir defekt,1
+65.0,kadin,anjinal olmayan,140.0,417.0,1,sol ventikuler hipertrofi,157.0,0,0.8,yukari egimli,1.0,normal,0
+53.0,erkek,anjinal olmayan,130.0,197.0,1,sol ventikuler hipertrofi,152.0,0,1.2,asagi egimli,0.0,normal,0
+41.0,kadin,atipik anjinal,105.0,198.0,0,normal,168.0,0,0.0,yukari egimli,1.0,normal,0
+65.0,erkek,asemptomatik,120.0,177.0,0,normal,140.0,0,0.4,yukari egimli,0.0,tersinir defekt,0
+44.0,erkek,asemptomatik,112.0,290.0,0,sol ventikuler hipertrofi,153.0,0,0.0,yukari egimli,1.0,normal,1
+44.0,erkek,atipik anjinal,130.0,219.0,0,sol ventikuler hipertrofi,188.0,0,0.0,yukari egimli,0.0,normal,0
+60.0,erkek,asemptomatik,130.0,253.0,0,normal,144.0,1,1.4,yukari egimli,1.0,tersinir defekt,1
+54.0,erkek,asemptomatik,124.0,266.0,0,sol ventikuler hipertrofi,109.0,1,2.2,duz,1.0,tersinir defekt,1
+50.0,erkek,anjinal olmayan,140.0,233.0,0,normal,163.0,0,0.6,duz,1.0,tersinir defekt,1
+41.0,erkek,asemptomatik,110.0,172.0,0,sol ventikuler hipertrofi,158.0,0,0.0,yukari egimli,0.0,tersinir defekt,1
+54.0,erkek,anjinal olmayan,125.0,273.0,0,sol ventikuler hipertrofi,152.0,0,0.5,asagi egimli,1.0,normal,0
+51.0,erkek,tipik anjinal,125.0,213.0,0,sol ventikuler hipertrofi,125.0,1,1.4,yukari egimli,1.0,normal,0
+51.0,kadin,asemptomatik,130.0,305.0,0,normal,142.0,1,1.2,duz,0.0,tersinir defekt,1
+46.0,kadin,anjinal olmayan,142.0,177.0,0,sol ventikuler hipertrofi,160.0,1,1.4,asagi egimli,0.0,normal,0
+58.0,erkek,asemptomatik,128.0,216.0,0,sol ventikuler hipertrofi,131.0,1,2.2,duz,3.0,tersinir defekt,1
+54.0,kadin,anjinal olmayan,135.0,304.0,1,normal,170.0,0,0.0,yukari egimli,0.0,normal,0
+54.0,erkek,asemptomatik,120.0,188.0,0,normal,113.0,0,1.4,duz,1.0,tersinir defekt,1
+60.0,erkek,asemptomatik,145.0,282.0,0,sol ventikuler hipertrofi,142.0,1,2.8,duz,2.0,tersinir defekt,1
+60.0,erkek,anjinal olmayan,140.0,185.0,0,sol ventikuler hipertrofi,155.0,0,3.0,duz,0.0,normal,1
+54.0,erkek,anjinal olmayan,150.0,232.0,0,sol ventikuler hipertrofi,165.0,0,1.6,yukari egimli,0.0,tersinir defekt,0
+59.0,erkek,asemptomatik,170.0,326.0,0,sol ventikuler hipertrofi,140.0,1,3.4,asagi egimli,0.0,tersinir defekt,1
+46.0,erkek,anjinal olmayan,150.0,231.0,0,normal,147.0,0,3.6,duz,0.0,normal,1
+65.0,kadin,anjinal olmayan,155.0,269.0,0,normal,148.0,0,0.8,yukari egimli,0.0,normal,0
+67.0,erkek,asemptomatik,125.0,254.0,1,normal,163.0,0,0.2,duz,2.0,tersinir defekt,1
+62.0,erkek,asemptomatik,120.0,267.0,0,normal,99.0,1,1.8,duz,2.0,tersinir defekt,1
+65.0,erkek,asemptomatik,110.0,248.0,0,sol ventikuler hipertrofi,158.0,0,0.6,yukari egimli,2.0,sabit defekt,1
+44.0,erkek,asemptomatik,110.0,197.0,0,sol ventikuler hipertrofi,177.0,0,0.0,yukari egimli,1.0,normal,1
+65.0,kadin,anjinal olmayan,160.0,360.0,0,sol ventikuler hipertrofi,151.0,0,0.8,yukari egimli,0.0,normal,0
+60.0,erkek,asemptomatik,125.0,258.0,0,sol ventikuler hipertrofi,141.0,1,2.8,duz,1.0,tersinir defekt,1
+51.0,kadin,anjinal olmayan,140.0,308.0,0,sol ventikuler hipertrofi,142.0,0,1.5,yukari egimli,1.0,normal,0
+48.0,erkek,atipik anjinal,130.0,245.0,0,sol ventikuler hipertrofi,180.0,0,0.2,duz,0.0,normal,0
+58.0,erkek,asemptomatik,150.0,270.0,0,sol ventikuler hipertrofi,111.0,1,0.8,yukari egimli,0.0,tersinir defekt,1
+45.0,erkek,asemptomatik,104.0,208.0,0,sol ventikuler hipertrofi,148.0,1,3.0,duz,0.0,normal,0
+53.0,kadin,asemptomatik,130.0,264.0,0,sol ventikuler hipertrofi,143.0,0,0.4,duz,0.0,normal,0
+39.0,erkek,anjinal olmayan,140.0,321.0,0,sol ventikuler hipertrofi,182.0,0,0.0,yukari egimli,0.0,normal,0
+68.0,erkek,anjinal olmayan,180.0,274.0,1,sol ventikuler hipertrofi,150.0,1,1.6,duz,0.0,tersinir defekt,1
+52.0,erkek,atipik anjinal,120.0,325.0,0,normal,172.0,0,0.2,yukari egimli,0.0,normal,0
+44.0,erkek,anjinal olmayan,140.0,235.0,0,sol ventikuler hipertrofi,180.0,0,0.0,yukari egimli,0.0,normal,0
+47.0,erkek,anjinal olmayan,138.0,257.0,0,sol ventikuler hipertrofi,156.0,0,0.0,yukari egimli,0.0,normal,0
+53.0,kadin,anjinal olmayan,128.0,216.0,0,sol ventikuler hipertrofi,115.0,0,0.0,yukari egimli,0.0,,0
+53.0,kadin,asemptomatik,138.0,234.0,0,sol ventikuler hipertrofi,160.0,0,0.0,yukari egimli,0.0,normal,0
+51.0,kadin,anjinal olmayan,130.0,256.0,0,sol ventikuler hipertrofi,149.0,0,0.5,yukari egimli,0.0,normal,0
+66.0,erkek,asemptomatik,120.0,302.0,0,sol ventikuler hipertrofi,151.0,0,0.4,duz,0.0,normal,0
+62.0,kadin,asemptomatik,160.0,164.0,0,sol ventikuler hipertrofi,145.0,0,6.2,asagi egimli,3.0,tersinir defekt,1
+62.0,erkek,anjinal olmayan,130.0,231.0,0,normal,146.0,0,1.8,duz,3.0,tersinir defekt,0
+44.0,kadin,anjinal olmayan,108.0,141.0,0,normal,175.0,0,0.6,duz,0.0,normal,0
+63.0,kadin,anjinal olmayan,135.0,252.0,0,sol ventikuler hipertrofi,172.0,0,0.0,yukari egimli,0.0,normal,0
+52.0,erkek,asemptomatik,128.0,255.0,0,normal,161.0,1,0.0,yukari egimli,1.0,tersinir defekt,1
+59.0,erkek,asemptomatik,110.0,239.0,0,sol ventikuler hipertrofi,142.0,1,1.2,duz,1.0,tersinir defekt,1
+60.0,kadin,asemptomatik,150.0,258.0,0,sol ventikuler hipertrofi,157.0,0,2.6,duz,2.0,tersinir defekt,1
+52.0,erkek,atipik anjinal,134.0,201.0,0,normal,158.0,0,0.8,yukari egimli,1.0,normal,0
+48.0,erkek,asemptomatik,122.0,222.0,0,sol ventikuler hipertrofi,186.0,0,0.0,yukari egimli,0.0,normal,0
+45.0,erkek,asemptomatik,115.0,260.0,0,sol ventikuler hipertrofi,185.0,0,0.0,yukari egimli,0.0,normal,0
+34.0,erkek,tipik anjinal,118.0,182.0,0,sol ventikuler hipertrofi,174.0,0,0.0,yukari egimli,0.0,normal,0
+57.0,kadin,asemptomatik,128.0,303.0,0,sol ventikuler hipertrofi,159.0,0,0.0,yukari egimli,1.0,normal,0
+71.0,kadin,anjinal olmayan,110.0,265.0,1,sol ventikuler hipertrofi,130.0,0,0.0,yukari egimli,1.0,normal,0
+49.0,erkek,anjinal olmayan,120.0,188.0,0,normal,139.0,0,2.0,duz,3.0,tersinir defekt,1
+54.0,erkek,atipik anjinal,108.0,309.0,0,normal,156.0,0,0.0,yukari egimli,0.0,tersinir defekt,0
+59.0,erkek,asemptomatik,140.0,177.0,0,normal,162.0,1,0.0,yukari egimli,1.0,tersinir defekt,1
+57.0,erkek,anjinal olmayan,128.0,229.0,0,sol ventikuler hipertrofi,150.0,0,0.4,duz,1.0,tersinir defekt,1
+61.0,erkek,asemptomatik,120.0,260.0,0,normal,140.0,1,3.6,duz,1.0,tersinir defekt,1
+39.0,erkek,asemptomatik,118.0,219.0,0,normal,140.0,0,1.2,duz,0.0,tersinir defekt,1
+61.0,kadin,asemptomatik,145.0,307.0,0,sol ventikuler hipertrofi,146.0,1,1.0,duz,0.0,tersinir defekt,1
+56.0,erkek,asemptomatik,125.0,249.0,1,sol ventikuler hipertrofi,144.0,1,1.2,duz,1.0,normal,1
+52.0,erkek,tipik anjinal,118.0,186.0,0,sol ventikuler hipertrofi,190.0,0,0.0,duz,0.0,sabit defekt,0
+43.0,kadin,asemptomatik,132.0,341.0,1,sol ventikuler hipertrofi,136.0,1,3.0,duz,0.0,tersinir defekt,1
+62.0,kadin,anjinal olmayan,130.0,263.0,0,normal,97.0,0,1.2,duz,1.0,tersinir defekt,1
+41.0,erkek,atipik anjinal,135.0,203.0,0,normal,132.0,0,0.0,duz,0.0,sabit defekt,0
+58.0,erkek,anjinal olmayan,140.0,211.0,1,sol ventikuler hipertrofi,165.0,0,0.0,yukari egimli,0.0,normal,0
+35.0,kadin,asemptomatik,138.0,183.0,0,normal,182.0,0,1.4,yukari egimli,0.0,normal,0
+63.0,erkek,asemptomatik,130.0,330.0,1,sol ventikuler hipertrofi,132.0,1,1.8,yukari egimli,3.0,tersinir defekt,1
+65.0,erkek,asemptomatik,135.0,254.0,0,sol ventikuler hipertrofi,127.0,0,2.8,duz,1.0,tersinir defekt,1
+48.0,erkek,asemptomatik,130.0,256.0,1,sol ventikuler hipertrofi,150.0,1,0.0,yukari egimli,2.0,tersinir defekt,1
+63.0,kadin,asemptomatik,150.0,407.0,0,sol ventikuler hipertrofi,154.0,0,4.0,duz,3.0,tersinir defekt,1
+51.0,erkek,anjinal olmayan,100.0,222.0,0,normal,143.0,1,1.2,duz,0.0,normal,0
+55.0,erkek,asemptomatik,140.0,217.0,0,normal,111.0,1,5.6,asagi egimli,0.0,tersinir defekt,1
+65.0,erkek,tipik anjinal,138.0,282.0,1,sol ventikuler hipertrofi,174.0,0,1.4,duz,1.0,normal,1
+45.0,kadin,atipik anjinal,130.0,234.0,0,sol ventikuler hipertrofi,175.0,0,0.6,duz,0.0,normal,0
+56.0,kadin,asemptomatik,200.0,288.0,1,sol ventikuler hipertrofi,133.0,1,4.0,asagi egimli,2.0,tersinir defekt,1
+54.0,erkek,asemptomatik,110.0,239.0,0,normal,126.0,1,2.8,duz,1.0,tersinir defekt,1
+44.0,erkek,atipik anjinal,120.0,220.0,0,normal,170.0,0,0.0,yukari egimli,0.0,normal,0
+62.0,kadin,asemptomatik,124.0,209.0,0,normal,163.0,0,0.0,yukari egimli,0.0,normal,0
+54.0,erkek,anjinal olmayan,120.0,258.0,0,sol ventikuler hipertrofi,147.0,0,0.4,duz,0.0,tersinir defekt,0
+51.0,erkek,anjinal olmayan,94.0,227.0,0,normal,154.0,1,0.0,yukari egimli,1.0,tersinir defekt,0
+29.0,erkek,atipik anjinal,130.0,204.0,0,sol ventikuler hipertrofi,202.0,0,0.0,yukari egimli,0.0,normal,0
+51.0,erkek,asemptomatik,140.0,261.0,0,sol ventikuler hipertrofi,186.0,1,0.0,yukari egimli,0.0,normal,0
+43.0,kadin,anjinal olmayan,122.0,213.0,0,normal,165.0,0,0.2,duz,0.0,normal,0
+55.0,kadin,atipik anjinal,135.0,250.0,0,sol ventikuler hipertrofi,161.0,0,1.4,duz,0.0,normal,0
+70.0,erkek,asemptomatik,145.0,174.0,0,normal,125.0,1,2.6,asagi egimli,0.0,tersinir defekt,1
+62.0,erkek,atipik anjinal,120.0,281.0,0,sol ventikuler hipertrofi,103.0,0,1.4,duz,1.0,tersinir defekt,1
+35.0,erkek,asemptomatik,120.0,198.0,0,normal,130.0,1,1.6,duz,0.0,tersinir defekt,1
+51.0,erkek,anjinal olmayan,125.0,245.0,1,sol ventikuler hipertrofi,166.0,0,2.4,duz,0.0,normal,0
+59.0,erkek,atipik anjinal,140.0,221.0,0,normal,164.0,1,0.0,yukari egimli,0.0,normal,0
+59.0,erkek,tipik anjinal,170.0,288.0,0,sol ventikuler hipertrofi,159.0,0,0.2,duz,0.0,tersinir defekt,1
+52.0,erkek,atipik anjinal,128.0,205.0,1,normal,184.0,0,0.0,yukari egimli,0.0,normal,0
+64.0,erkek,anjinal olmayan,125.0,309.0,0,normal,131.0,1,1.8,duz,0.0,tersinir defekt,1
+58.0,erkek,anjinal olmayan,105.0,240.0,0,sol ventikuler hipertrofi,154.0,1,0.6,duz,0.0,tersinir defekt,0
+47.0,erkek,anjinal olmayan,108.0,243.0,0,normal,152.0,0,0.0,yukari egimli,0.0,normal,1
+57.0,erkek,asemptomatik,165.0,289.0,1,sol ventikuler hipertrofi,124.0,0,1.0,duz,3.0,tersinir defekt,1
+41.0,erkek,anjinal olmayan,112.0,250.0,0,normal,179.0,0,0.0,yukari egimli,0.0,normal,0
+45.0,erkek,atipik anjinal,128.0,308.0,0,sol ventikuler hipertrofi,170.0,0,0.0,yukari egimli,0.0,normal,0
+60.0,kadin,anjinal olmayan,102.0,318.0,0,normal,160.0,0,0.0,yukari egimli,1.0,normal,0
+52.0,erkek,tipik anjinal,152.0,298.0,1,normal,178.0,0,1.2,duz,0.0,tersinir defekt,0
+42.0,kadin,asemptomatik,102.0,265.0,0,sol ventikuler hipertrofi,122.0,0,0.6,duz,0.0,normal,0
+67.0,kadin,anjinal olmayan,115.0,564.0,0,sol ventikuler hipertrofi,160.0,0,1.6,duz,0.0,tersinir defekt,0
+55.0,erkek,asemptomatik,160.0,289.0,0,sol ventikuler hipertrofi,145.0,1,0.8,duz,1.0,tersinir defekt,1
+64.0,erkek,asemptomatik,120.0,246.0,0,sol ventikuler hipertrofi,96.0,1,2.2,asagi egimli,1.0,normal,1
+70.0,erkek,asemptomatik,130.0,322.0,0,sol ventikuler hipertrofi,109.0,0,2.4,duz,3.0,normal,1
+51.0,erkek,asemptomatik,140.0,299.0,0,normal,173.0,1,1.6,yukari egimli,0.0,tersinir defekt,1
+58.0,erkek,asemptomatik,125.0,300.0,0,sol ventikuler hipertrofi,171.0,0,0.0,yukari egimli,2.0,tersinir defekt,1
+60.0,erkek,asemptomatik,140.0,293.0,0,sol ventikuler hipertrofi,170.0,0,1.2,duz,2.0,tersinir defekt,1
+68.0,erkek,anjinal olmayan,118.0,277.0,0,normal,151.0,0,1.0,yukari egimli,1.0,tersinir defekt,0
+46.0,erkek,atipik anjinal,101.0,197.0,1,normal,156.0,0,0.0,yukari egimli,0.0,tersinir defekt,0
+77.0,erkek,asemptomatik,125.0,304.0,0,sol ventikuler hipertrofi,162.0,1,0.0,yukari egimli,3.0,normal,1
+54.0,kadin,anjinal olmayan,110.0,214.0,0,normal,158.0,0,1.6,duz,0.0,normal,0
+58.0,kadin,asemptomatik,100.0,248.0,0,sol ventikuler hipertrofi,122.0,0,1.0,duz,0.0,normal,0
+48.0,erkek,anjinal olmayan,124.0,255.0,1,normal,175.0,0,0.0,yukari egimli,2.0,normal,0
+57.0,erkek,asemptomatik,132.0,207.0,0,normal,168.0,1,0.0,yukari egimli,0.0,tersinir defekt,0
+52.0,erkek,anjinal olmayan,138.0,223.0,0,normal,169.0,0,0.0,yukari egimli,,normal,0
+54.0,kadin,atipik anjinal,132.0,288.0,1,sol ventikuler hipertrofi,159.0,1,0.0,yukari egimli,1.0,normal,0
+35.0,erkek,asemptomatik,126.0,282.0,0,sol ventikuler hipertrofi,156.0,1,0.0,yukari egimli,0.0,tersinir defekt,1
+45.0,kadin,atipik anjinal,112.0,160.0,0,normal,138.0,0,0.0,duz,0.0,normal,0
+70.0,erkek,anjinal olmayan,160.0,269.0,0,normal,112.0,1,2.9,duz,1.0,tersinir defekt,1
+53.0,erkek,asemptomatik,142.0,226.0,0,sol ventikuler hipertrofi,111.0,1,0.0,yukari egimli,0.0,tersinir defekt,0
+59.0,kadin,asemptomatik,174.0,249.0,0,normal,143.0,1,0.0,duz,0.0,normal,1
+62.0,kadin,asemptomatik,140.0,394.0,0,sol ventikuler hipertrofi,157.0,0,1.2,duz,0.0,normal,0
+64.0,erkek,asemptomatik,145.0,212.0,0,sol ventikuler hipertrofi,132.0,0,2.0,duz,2.0,sabit defekt,1
+57.0,erkek,asemptomatik,152.0,274.0,0,normal,88.0,1,1.2,duz,1.0,tersinir defekt,1
+52.0,erkek,asemptomatik,108.0,233.0,1,normal,147.0,0,0.1,yukari egimli,3.0,tersinir defekt,0
+56.0,erkek,asemptomatik,132.0,184.0,0,sol ventikuler hipertrofi,105.0,1,2.1,duz,1.0,sabit defekt,1
+43.0,erkek,anjinal olmayan,130.0,315.0,0,normal,162.0,0,1.9,yukari egimli,1.0,normal,0
+53.0,erkek,anjinal olmayan,130.0,246.0,1,sol ventikuler hipertrofi,173.0,0,0.0,yukari egimli,3.0,normal,0
+48.0,erkek,asemptomatik,124.0,274.0,0,sol ventikuler hipertrofi,166.0,0,0.5,duz,0.0,tersinir defekt,1
+56.0,kadin,asemptomatik,134.0,409.0,0,sol ventikuler hipertrofi,150.0,1,1.9,duz,2.0,tersinir defekt,1
+42.0,erkek,tipik anjinal,148.0,244.0,0,sol ventikuler hipertrofi,178.0,0,0.8,yukari egimli,2.0,normal,0
+59.0,erkek,tipik anjinal,178.0,270.0,0,sol ventikuler hipertrofi,145.0,0,4.2,asagi egimli,0.0,tersinir defekt,0
+60.0,kadin,asemptomatik,158.0,305.0,0,sol ventikuler hipertrofi,161.0,0,0.0,yukari egimli,0.0,normal,1
+63.0,kadin,atipik anjinal,140.0,195.0,0,normal,179.0,0,0.0,yukari egimli,2.0,normal,0
+42.0,erkek,anjinal olmayan,120.0,240.0,1,normal,194.0,0,0.8,asagi egimli,0.0,tersinir defekt,0
+66.0,erkek,atipik anjinal,160.0,246.0,0,normal,120.0,1,0.0,duz,3.0,sabit defekt,1
+54.0,erkek,atipik anjinal,192.0,283.0,0,sol ventikuler hipertrofi,195.0,0,0.0,yukari egimli,1.0,tersinir defekt,1
+69.0,erkek,anjinal olmayan,140.0,254.0,0,sol ventikuler hipertrofi,146.0,0,2.0,duz,3.0,tersinir defekt,1
+50.0,erkek,anjinal olmayan,129.0,196.0,0,normal,163.0,0,0.0,yukari egimli,0.0,normal,0
+51.0,erkek,asemptomatik,140.0,298.0,0,normal,122.0,1,4.2,duz,3.0,tersinir defekt,1
+43.0,erkek,asemptomatik,132.0,247.0,1,sol ventikuler hipertrofi,143.0,1,0.1,duz,,tersinir defekt,1
+62.0,kadin,asemptomatik,138.0,294.0,1,normal,106.0,0,1.9,duz,3.0,normal,1
+68.0,kadin,anjinal olmayan,120.0,211.0,0,sol ventikuler hipertrofi,115.0,0,1.5,duz,0.0,normal,0
+67.0,erkek,asemptomatik,100.0,299.0,0,sol ventikuler hipertrofi,125.0,1,0.9,duz,2.0,normal,1
+69.0,erkek,tipik anjinal,160.0,234.0,1,sol ventikuler hipertrofi,131.0,0,0.1,duz,1.0,normal,0
+45.0,kadin,asemptomatik,138.0,236.0,0,sol ventikuler hipertrofi,152.0,1,0.2,duz,0.0,normal,0
+50.0,kadin,atipik anjinal,120.0,244.0,0,normal,162.0,0,1.1,yukari egimli,0.0,normal,0
+59.0,erkek,tipik anjinal,160.0,273.0,0,sol ventikuler hipertrofi,125.0,0,0.0,yukari egimli,0.0,normal,1
+50.0,kadin,asemptomatik,110.0,254.0,0,sol ventikuler hipertrofi,159.0,0,0.0,yukari egimli,0.0,normal,0
+64.0,kadin,asemptomatik,180.0,325.0,0,normal,154.0,1,0.0,yukari egimli,0.0,normal,0
+57.0,erkek,anjinal olmayan,150.0,126.0,1,normal,173.0,0,0.2,yukari egimli,1.0,tersinir defekt,0
+64.0,kadin,anjinal olmayan,140.0,313.0,0,normal,133.0,0,0.2,yukari egimli,0.0,tersinir defekt,0
+43.0,erkek,asemptomatik,110.0,211.0,0,normal,161.0,0,0.0,yukari egimli,0.0,tersinir defekt,0
+45.0,erkek,asemptomatik,142.0,309.0,0,sol ventikuler hipertrofi,147.0,1,0.0,duz,3.0,tersinir defekt,1
+58.0,erkek,asemptomatik,128.0,259.0,0,sol ventikuler hipertrofi,130.0,1,3.0,duz,2.0,tersinir defekt,1
+50.0,erkek,asemptomatik,144.0,200.0,0,sol ventikuler hipertrofi,126.0,1,0.9,duz,0.0,tersinir defekt,1
+55.0,erkek,atipik anjinal,130.0,262.0,0,normal,155.0,0,0.0,yukari egimli,0.0,normal,0
+62.0,kadin,asemptomatik,150.0,244.0,0,normal,154.0,1,1.4,duz,0.0,normal,1
+37.0,kadin,anjinal olmayan,120.0,215.0,0,normal,170.0,0,0.0,yukari egimli,0.0,normal,0
+38.0,erkek,tipik anjinal,120.0,231.0,0,normal,182.0,1,3.8,duz,0.0,tersinir defekt,1
+41.0,erkek,anjinal olmayan,130.0,214.0,0,sol ventikuler hipertrofi,168.0,0,2.0,duz,0.0,normal,0
+66.0,kadin,asemptomatik,178.0,228.0,1,normal,165.0,1,1.0,duz,2.0,tersinir defekt,1
+52.0,erkek,asemptomatik,112.0,230.0,0,normal,160.0,0,0.0,yukari egimli,1.0,normal,1
+56.0,erkek,tipik anjinal,120.0,193.0,0,sol ventikuler hipertrofi,162.0,0,1.9,duz,0.0,tersinir defekt,0
+46.0,kadin,atipik anjinal,105.0,204.0,0,normal,172.0,0,0.0,yukari egimli,0.0,normal,0
+46.0,kadin,asemptomatik,138.0,243.0,0,sol ventikuler hipertrofi,152.0,1,0.0,duz,0.0,normal,0
+64.0,kadin,asemptomatik,130.0,303.0,0,normal,122.0,0,2.0,duz,2.0,normal,0
+59.0,erkek,asemptomatik,138.0,271.0,0,sol ventikuler hipertrofi,182.0,0,0.0,yukari egimli,0.0,normal,0
+41.0,kadin,anjinal olmayan,112.0,268.0,0,sol ventikuler hipertrofi,172.0,1,0.0,yukari egimli,0.0,normal,0
+54.0,kadin,anjinal olmayan,108.0,267.0,0,sol ventikuler hipertrofi,167.0,0,0.0,yukari egimli,0.0,normal,0
+39.0,kadin,anjinal olmayan,94.0,199.0,0,normal,179.0,0,0.0,yukari egimli,0.0,normal,0
+53.0,erkek,asemptomatik,123.0,282.0,0,normal,95.0,1,2.0,duz,2.0,tersinir defekt,1
+63.0,kadin,asemptomatik,108.0,269.0,0,normal,169.0,1,1.8,duz,2.0,normal,1
+34.0,kadin,atipik anjinal,118.0,210.0,0,normal,192.0,0,0.7,yukari egimli,0.0,normal,0
+47.0,erkek,asemptomatik,112.0,204.0,0,normal,143.0,0,0.1,yukari egimli,0.0,normal,0
+67.0,kadin,anjinal olmayan,152.0,277.0,0,normal,172.0,0,0.0,yukari egimli,1.0,normal,0
+54.0,erkek,asemptomatik,110.0,206.0,0,sol ventikuler hipertrofi,108.0,1,0.0,duz,1.0,normal,1
+66.0,erkek,asemptomatik,112.0,212.0,0,sol ventikuler hipertrofi,132.0,1,0.1,yukari egimli,1.0,normal,1
+52.0,kadin,anjinal olmayan,136.0,196.0,0,sol ventikuler hipertrofi,169.0,0,0.1,duz,0.0,normal,0
+55.0,kadin,asemptomatik,180.0,327.0,0,ST-T anormal,117.0,1,3.4,duz,0.0,normal,1
+49.0,erkek,anjinal olmayan,118.0,149.0,0,sol ventikuler hipertrofi,126.0,0,0.8,yukari egimli,3.0,normal,1
+74.0,kadin,atipik anjinal,120.0,269.0,0,sol ventikuler hipertrofi,121.0,1,0.2,yukari egimli,1.0,normal,0
+54.0,kadin,anjinal olmayan,160.0,201.0,0,normal,163.0,0,0.0,yukari egimli,1.0,normal,0
+54.0,erkek,asemptomatik,122.0,286.0,0,sol ventikuler hipertrofi,116.0,1,3.2,duz,2.0,normal,1
+56.0,erkek,asemptomatik,130.0,283.0,1,sol ventikuler hipertrofi,103.0,1,1.6,asagi egimli,0.0,tersinir defekt,1
+46.0,erkek,asemptomatik,120.0,249.0,0,sol ventikuler hipertrofi,144.0,0,0.8,yukari egimli,0.0,tersinir defekt,1
+49.0,kadin,atipik anjinal,134.0,271.0,0,normal,162.0,0,0.0,duz,0.0,normal,0
+42.0,erkek,atipik anjinal,120.0,295.0,0,normal,162.0,0,0.0,yukari egimli,0.0,normal,0
+41.0,erkek,atipik anjinal,110.0,235.0,0,normal,153.0,0,0.0,yukari egimli,0.0,normal,0
+41.0,kadin,atipik anjinal,126.0,306.0,0,normal,163.0,0,0.0,yukari egimli,0.0,normal,0
+49.0,kadin,asemptomatik,130.0,269.0,0,normal,163.0,0,0.0,yukari egimli,0.0,normal,0
+61.0,erkek,tipik anjinal,134.0,234.0,0,normal,145.0,0,2.6,duz,2.0,normal,1
+60.0,kadin,anjinal olmayan,120.0,178.0,1,normal,96.0,0,0.0,yukari egimli,0.0,normal,0
+67.0,erkek,asemptomatik,120.0,237.0,0,normal,71.0,0,1.0,duz,0.0,normal,1
+58.0,erkek,asemptomatik,100.0,234.0,0,normal,156.0,0,0.1,yukari egimli,1.0,tersinir defekt,1
+47.0,erkek,asemptomatik,110.0,275.0,0,sol ventikuler hipertrofi,118.0,1,1.0,duz,1.0,normal,1
+52.0,erkek,asemptomatik,125.0,212.0,0,normal,168.0,0,1.0,yukari egimli,2.0,tersinir defekt,1
+62.0,erkek,atipik anjinal,128.0,208.0,1,sol ventikuler hipertrofi,140.0,0,0.0,yukari egimli,0.0,normal,0
+57.0,erkek,asemptomatik,110.0,201.0,0,normal,126.0,1,1.5,duz,0.0,sabit defekt,0
+58.0,erkek,asemptomatik,146.0,218.0,0,normal,105.0,0,2.0,duz,1.0,tersinir defekt,1
+64.0,erkek,asemptomatik,128.0,263.0,0,normal,105.0,1,0.2,duz,1.0,tersinir defekt,0
+51.0,kadin,anjinal olmayan,120.0,295.0,0,sol ventikuler hipertrofi,157.0,0,0.6,yukari egimli,0.0,normal,0
+43.0,erkek,asemptomatik,115.0,303.0,0,normal,181.0,0,1.2,duz,0.0,normal,0
+42.0,kadin,anjinal olmayan,120.0,209.0,0,normal,173.0,0,0.0,duz,0.0,normal,0
+67.0,kadin,asemptomatik,106.0,223.0,0,normal,142.0,0,0.3,yukari egimli,2.0,normal,0
+76.0,kadin,anjinal olmayan,140.0,197.0,0,ST-T anormal,116.0,0,1.1,duz,0.0,normal,0
+70.0,erkek,atipik anjinal,156.0,245.0,0,sol ventikuler hipertrofi,143.0,0,0.0,yukari egimli,0.0,normal,0
+57.0,erkek,atipik anjinal,124.0,261.0,0,normal,141.0,0,0.3,yukari egimli,0.0,tersinir defekt,1
+44.0,kadin,anjinal olmayan,118.0,242.0,0,normal,149.0,0,0.3,duz,1.0,normal,0
+58.0,kadin,atipik anjinal,136.0,319.0,1,sol ventikuler hipertrofi,152.0,0,0.0,yukari egimli,2.0,normal,1
+60.0,kadin,tipik anjinal,150.0,240.0,0,normal,171.0,0,0.9,yukari egimli,0.0,normal,0
+44.0,erkek,anjinal olmayan,120.0,226.0,0,normal,169.0,0,0.0,yukari egimli,0.0,normal,0
+61.0,erkek,asemptomatik,138.0,166.0,0,sol ventikuler hipertrofi,125.0,1,3.6,duz,1.0,normal,1
+42.0,erkek,asemptomatik,136.0,315.0,0,normal,125.0,1,1.8,duz,0.0,sabit defekt,1
+52.0,erkek,asemptomatik,128.0,204.0,1,normal,156.0,1,1.0,duz,0.0,,1
+59.0,erkek,anjinal olmayan,126.0,218.0,1,normal,134.0,0,2.2,duz,1.0,sabit defekt,1
+40.0,erkek,asemptomatik,152.0,223.0,0,normal,181.0,0,0.0,yukari egimli,0.0,tersinir defekt,1
+42.0,erkek,anjinal olmayan,130.0,180.0,0,normal,150.0,0,0.0,yukari egimli,0.0,normal,0
+61.0,erkek,asemptomatik,140.0,207.0,0,sol ventikuler hipertrofi,138.0,1,1.9,yukari egimli,1.0,tersinir defekt,1
+66.0,erkek,asemptomatik,160.0,228.0,0,sol ventikuler hipertrofi,138.0,0,2.3,yukari egimli,0.0,sabit defekt,0
+46.0,erkek,asemptomatik,140.0,311.0,0,normal,120.0,1,1.8,duz,2.0,tersinir defekt,1
+71.0,kadin,asemptomatik,112.0,149.0,0,normal,125.0,0,1.6,duz,0.0,normal,0
+59.0,erkek,tipik anjinal,134.0,204.0,0,normal,162.0,0,0.8,yukari egimli,2.0,normal,1
+64.0,erkek,tipik anjinal,170.0,227.0,0,sol ventikuler hipertrofi,155.0,0,0.6,duz,0.0,tersinir defekt,0
+66.0,kadin,anjinal olmayan,146.0,278.0,0,sol ventikuler hipertrofi,152.0,0,0.0,duz,1.0,normal,0
+39.0,kadin,anjinal olmayan,138.0,220.0,0,normal,152.0,0,0.0,duz,0.0,normal,0
+57.0,erkek,atipik anjinal,154.0,232.0,0,sol ventikuler hipertrofi,164.0,0,0.0,yukari egimli,1.0,normal,1
+58.0,kadin,asemptomatik,130.0,197.0,0,normal,131.0,0,0.6,duz,0.0,normal,0
+57.0,erkek,asemptomatik,110.0,335.0,0,normal,143.0,1,3.0,duz,1.0,tersinir defekt,1
+47.0,erkek,anjinal olmayan,130.0,253.0,0,normal,179.0,0,0.0,yukari egimli,0.0,normal,0
+55.0,kadin,asemptomatik,128.0,205.0,0,ST-T anormal,130.0,1,2.0,duz,1.0,tersinir defekt,1
+35.0,erkek,atipik anjinal,122.0,192.0,0,normal,174.0,0,0.0,yukari egimli,0.0,normal,0
+61.0,erkek,asemptomatik,148.0,203.0,0,normal,161.0,0,0.0,yukari egimli,1.0,tersinir defekt,1
+58.0,erkek,asemptomatik,114.0,318.0,0,ST-T anormal,140.0,0,4.4,asagi egimli,3.0,sabit defekt,1
+58.0,kadin,asemptomatik,170.0,225.0,1,sol ventikuler hipertrofi,146.0,1,2.8,duz,2.0,sabit defekt,1
+58.0,erkek,atipik anjinal,125.0,220.0,0,normal,144.0,0,0.4,duz,,tersinir defekt,0
+56.0,erkek,atipik anjinal,130.0,221.0,0,sol ventikuler hipertrofi,163.0,0,0.0,yukari egimli,0.0,tersinir defekt,0
+56.0,erkek,atipik anjinal,120.0,240.0,0,normal,169.0,0,0.0,asagi egimli,0.0,normal,0
+67.0,erkek,anjinal olmayan,152.0,212.0,0,sol ventikuler hipertrofi,150.0,0,0.8,duz,0.0,tersinir defekt,1
+55.0,kadin,atipik anjinal,132.0,342.0,0,normal,166.0,0,1.2,yukari egimli,0.0,normal,0
+44.0,erkek,asemptomatik,120.0,169.0,0,normal,144.0,1,2.8,asagi egimli,0.0,sabit defekt,1
+63.0,erkek,asemptomatik,140.0,187.0,0,sol ventikuler hipertrofi,144.0,1,4.0,yukari egimli,2.0,tersinir defekt,1
+63.0,kadin,asemptomatik,124.0,197.0,0,normal,136.0,1,0.0,duz,0.0,normal,1
+41.0,erkek,atipik anjinal,120.0,157.0,0,normal,182.0,0,0.0,yukari egimli,0.0,normal,0
+59.0,erkek,asemptomatik,164.0,176.0,1,sol ventikuler hipertrofi,90.0,0,1.0,duz,2.0,sabit defekt,1
+57.0,kadin,asemptomatik,140.0,241.0,0,normal,123.0,1,0.2,duz,0.0,tersinir defekt,1
+45.0,erkek,tipik anjinal,110.0,264.0,0,normal,132.0,0,1.2,duz,0.0,tersinir defekt,1
+68.0,erkek,asemptomatik,144.0,193.0,1,normal,141.0,0,3.4,duz,2.0,tersinir defekt,1
+57.0,erkek,asemptomatik,130.0,131.0,0,normal,115.0,1,1.2,duz,1.0,tersinir defekt,1
+57.0,kadin,atipik anjinal,130.0,236.0,0,sol ventikuler hipertrofi,174.0,0,0.0,duz,1.0,normal,1
+38.0,erkek,anjinal olmayan,138.0,175.0,0,normal,173.0,0,0.0,yukari egimli,,normal,0
