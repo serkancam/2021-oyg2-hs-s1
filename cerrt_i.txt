@@ -1,0 +1,7 @@
+openssl x509 -inform DER -in MEB_SERTIFIKASI.cer -out MEB_SERTIFIKASI.crt
+
+sudo mkdir /usr/local/share/ca-certificates/extra
+
+sudo cp MEB_SERTIFIKASI.crt /usr/local/share/ca-certificates/extra/MEB_SERTIFIKASI.crt
+
+sudo dpkg-reconfigure ca-certificates
