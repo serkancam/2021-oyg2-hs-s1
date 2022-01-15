@@ -1,0 +1,31 @@
+{% extends "sablon.html" %}
+{% block header%}
+<h1>Burası öğrenci istesi</h1>
+{% endblock%}
+
+
+{% block article%}
+<table >
+    <tr>
+        <td style="border: 1px solid red; width: 100px;">işlem</td>
+        <td style="border: 1px solid red; width: 100px;"> {{ ogrenciler[0][0] }}</td>
+        <td style="border: 1px solid red; width:100px"> {{ ogrenciler[0][1] }}</td>
+        <td style="border: 1px solid red; width:100px"> {{ ogrenciler[0][2] }}</td>
+    </tr>
+    {% for ogrenci in ogrenciler[1:] %}
+    <tr>
+        <td style="border: 1px solid blue;"> <a href="/liste?sil={{ ogrenci[0]}}">sil</a> </td>
+        <td style="border: 1px solid gray;"> {{ ogrenci[0] }}</td>
+        <td style="border: 1px solid gray;"> {{ ogrenci[1] }}</td>
+        <td style="border: 1px solid gray;"> {{ ogrenci[2] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+{% endblock %}
+
+
+{% block footer %}
+<h1>Burası footer </h1>
+{% endblock %}

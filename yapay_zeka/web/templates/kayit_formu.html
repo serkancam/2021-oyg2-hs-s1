@@ -1,0 +1,25 @@
+{% extends "sablon.html" %}
+{% block header%}
+<h1>Kayıt formu</h1>
+{% endblock%}
+{% block article%}
+<form action="/kayit" method="post" autocomplete="off">
+    <label for="ad">Ad:</label><br>
+    <input type="text" id="ad" name="ad" value=""><br>
+    <label for="soyad">Soyad:</label><br>
+    <input type="text" id="soyad" name="soyad" value=""><br><br>
+    <label for="program">Program:</label>
+    <select id="program" name="program" >
+        <option value="Destek">Destek</option>
+        <option value="BYFP">BYFP</option>
+        <option value="ÖYG">ÖYG</option>
+        <option value="Proje">Proje</option>
+    </select>
+    <input type="submit" value="Kaydet">
+</form>
+
+<p>{{ hata }}</p>
+{% endblock %}
+{% block footer %}
+<h1>Burası footer </h1>
+{% endblock %}
