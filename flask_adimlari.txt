@@ -1,0 +1,14 @@
+1- "virtualenv blog" komutları ile sanal ortam kurdum.
+2- "source web/bin/activate" ile sanal ortamı aktif ettim.
+3- "pip3 install Flask Flask-SQLAlchemy WTForms passlib" ile flask kütüphanesini kurdum.
+4- 
+"templates"
+"static"
+ isimli iki dizin oluşturdum.
+5- "app.py" adında bir dosya oluşturdum.
+*****************************************************
+6- "cd web" komutu ile web uygulama klasörüne geçtim.
+7- "source bin/activate" komutu iler sanal ortam başlatılır.
+8- "export FLASK_ENV=development" 
+9- flask run komutu ile sunucuy başlattım.
+(flask run --host=0.0.0.0)
